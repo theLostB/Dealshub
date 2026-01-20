@@ -1,0 +1,99 @@
+{
+  "visitors": [
+    {
+      "sessionId": "0erbbnhjxed4mkmep8fk",
+      "referrer": "localhost",
+      "device": "desktop",
+      "page": "/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "screenWidth": 1366,
+      "screenHeight": 607,
+      "timestamp": "2026-01-20T09:43:36.960Z"
+    },
+    {
+      "sessionId": "0erbbnhjxed4mkmep8fk",
+      "referrer": "localhost",
+      "device": "desktop",
+      "page": "/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "screenWidth": 1366,
+      "screenHeight": 607,
+      "timestamp": "2026-01-20T09:43:36.968Z"
+    },
+    {
+      "sessionId": "gy5v6aa0wv6mkmeqxku",
+      "referrer": "Direct",
+      "device": "desktop",
+      "page": "/admin",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "screenWidth": 1366,
+      "screenHeight": 607,
+      "timestamp": "2026-01-20T09:44:44.316Z"
+    },
+    {
+      "sessionId": "gy5v6aa0wv6mkmeqxku",
+      "referrer": "Direct",
+      "device": "desktop",
+      "page": "/admin",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "screenWidth": 1366,
+      "screenHeight": 607,
+      "timestamp": "2026-01-20T09:44:44.320Z"
+    },
+    {
+      "sessionId": "m4tfwh4uzjlmkmes2bi",
+      "referrer": "localhost",
+      "device": "desktop",
+      "page": "/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "screenWidth": 1366,
+      "screenHeight": 607,
+      "timestamp": "2026-01-20T09:45:36.763Z"
+    },
+    {
+      "sessionId": "m4tfwh4uzjlmkmes2bi",
+      "referrer": "localhost",
+      "device": "desktop",
+      "page": "/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "screenWidth": 1366,
+      "screenHeight": 607,
+      "timestamp": "2026-01-20T09:45:36.769Z"
+    }
+  ],
+  "clicks": [
+    {
+      "sessionId": "0erbbnhjxed4mkmep8fk",
+      "productId": "4",
+      "productTitle": "Nike Air Jordan 1 Retro High OG",
+      "platform": "Myntra",
+      "price": 14995,
+      "timestamp": "2026-01-20T09:46:45.371Z"
+    },
+    {
+      "sessionId": "0erbbnhjxed4mkmep8fk",
+      "productId": "1768900371234",
+      "productTitle": "Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",
+      "platform": "Amazon",
+      "price": 8399000,
+      "timestamp": "2026-01-20T09:47:21.002Z"
+    },
+    {
+      "sessionId": "0erbbnhjxed4mkmep8fk",
+      "productId": "1",
+      "productTitle": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+      "platform": "Amazon",
+      "price": 26990,
+      "timestamp": "2026-01-20T09:47:28.498Z"
+    },
+    {
+      "sessionId": "0erbbnhjxed4mkmep8fk",
+      "productId": "5",
+      "productTitle": "Dyson V15 Detect Absolute Vacuum Cleaner",
+      "platform": "Amazon",
+      "price": 58900,
+      "timestamp": "2026-01-20T09:47:45.238Z"
+    }
+  ],
+  "dailyStats": {}
+}

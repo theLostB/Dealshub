@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1768905168692",
+    "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Cente",
+    "description": "UNIBODY DESIGN. FOR EXCEPTIONAL POWER — Heat-forged aluminium unibody enclosure for the most powerful iPhone ever made.     DURABLE CERAMIC SHIELD. FRONT AND BACK — Ceramic Shield protects the back of iPhone 17 Pro Max, making it 4x more resistant to cracks. And the new Ceramic Shield 2 on the front...",
+    "price": 13490000,
+    "originalPrice": 16188000,
+    "image": "https://m.media-amazon.com/images/I/41amrp7gg7L._SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "General",
+    "platform": "Amazon",
+    "affiliateLink": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX",
+    "createdAt": "2026-01-20T10:32:48.692Z"
+  },
+  {
+    "id": "1768900475271",
+    "title": "Apple MacBook AIR M2 - (16 GB/256 GB SSD/macOS Sequoia) MC7X4HN/A (13.6 Inch, Midnight, 1.24 kg)",
+    "description": "No description available",
+    "price": 19751,
+    "originalPrice": 23701,
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/f/j/g/-original-imahfthtkkzyazkf.jpeg?q=70&crop=false",
+    "category": "General",
+    "platform": "Flipkart",
+    "affiliateLink": "https://www.flipkart.com/a/p/itm0946c05e6335c",
+    "createdAt": "2026-01-20T09:14:35.271Z"
+  },
+  {
+    "id": "1768900371234",
+    "title": "Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",
+    "description": "SPEED OF LIGHTNESS — MacBook Air with the M4 chip lets you blaze through work and play. With Apple Intelligence,* up to 18 hours of battery life,* and an incredibly portable design, you can take on anything, anywhere.     SUPERCHARGED BY M4 — The Apple M4 chip brings even more speed and fluidity to ...",
+    "price": 8399000,
+    "originalPrice": 10078800,
+    "image": "https://m.media-amazon.com/images/I/41yniWLSDvL._SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "affiliateLink": "https://www.amazon.in/Apple-MacBook-13-inch-10-core-Unified/dp/B0DZDDQ429",
+    "createdAt": "2026-01-20T09:12:51.234Z"
+  },
+  {
+    "id": "1",
+    "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "description": "Industry-leading noise cancellation with Auto NC Optimizer, crystal-clear hands-free calling, and up to 30 hours battery life.",
+    "price": 26990,
+    "originalPrice": 34990,
+    "image": "https://m.media-amazon.com/images/I/61vJtKbAssL._SL1500_.jpg",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "affiliateLink": "https://amazon.in/dp/B0BSHHXY7Z",
+    "createdAt": "2026-01-20T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Apple MacBook Air M2 Chip (13.6-inch, 8GB RAM, 256GB SSD)",
+    "description": "Supercharged by M2 chip. Strikingly thin design with all-day battery life. Stunning Liquid Retina display.",
+    "price": 99990,
+    "originalPrice": 119900,
+    "image": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SL1500_.jpg",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "affiliateLink": "https://amazon.in/dp/B0B3BVWJ6Y",
+    "createdAt": "2026-01-20T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Samsung Galaxy S24 Ultra 5G (Titanium Black, 12GB, 256GB)",
+    "description": "Built with titanium. Pro-grade camera with 200MP resolution. Galaxy AI features. S Pen included.",
+    "price": 129999,
+    "originalPrice": 134999,
+    "image": "https://m.media-amazon.com/images/I/71WcBr0NXOL._SL1500_.jpg",
+    "category": "Electronics",
+    "platform": "Flipkart",
+    "affiliateLink": "https://flipkart.com/samsung-galaxy-s24-ultra",
+    "createdAt": "2026-01-20T00:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Nike Air Jordan 1 Retro High OG",
+    "description": "The iconic sneaker that started it all. Premium leather, Air-Sole cushioning, and timeless style.",
+    "price": 14995,
+    "originalPrice": 16995,
+    "image": "https://m.media-amazon.com/images/I/71cVOgvystL._UL1500_.jpg",
+    "category": "Fashion",
+    "platform": "Myntra",
+    "affiliateLink": "https://myntra.com/nike-air-jordan",
+    "createdAt": "2026-01-20T00:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Dyson V15 Detect Absolute Vacuum Cleaner",
+    "description": "Reveals invisible dust with laser. Piezo sensor counts particles. HEPA filtration captures 99.99% of allergens.",
+    "price": 58900,
+    "originalPrice": 68900,
+    "image": "https://m.media-amazon.com/images/I/61Sx8etH09L._SL1500_.jpg",
+    "category": "Home",
+    "platform": "Amazon",
+    "affiliateLink": "https://amazon.in/dp/B0B1BDRQV8",
+    "createdAt": "2026-01-20T00:00:00Z"
+  },
+  {
+    "id": "6",
+    "title": "boAt Airdopes 141 Bluetooth Earbuds",
+    "description": "42H playtime, ENx tech for clearer calls, low latency mode, IPX4 water resistance.",
+    "price": 1299,
+    "originalPrice": 4490,
+    "image": "https://m.media-amazon.com/images/I/51kchm08NuL._SL1500_.jpg",
+    "category": "Electronics",
+    "platform": "Flipkart",
+    "affiliateLink": "https://flipkart.com/boat-airdopes-141",
+    "createdAt": "2026-01-20T00:00:00Z"
+  }
+]
